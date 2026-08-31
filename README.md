@@ -1,3 +1,3 @@
 # CPTS-322-In-Class-Assignment-
 
-trying to make a branch and merge the new updated read me file. 
+made a new branch called readme so i can merge into main. 
